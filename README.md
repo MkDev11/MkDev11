@@ -1,25 +1,11 @@
 🍯 Technical Stack
-
-  - 🥇 React 𒑰 Angular 𒑰 NextJS 𒑰 Material UI 𒑰 Ant Design 𒑰 Tailwind CSS 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma
-  - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO
-  - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap
-  - 🏹 Chrome extension with React & Redux
-  - 💰 Blockchain 𒑰 Smart Contract 𒑰 Solidity 𒑰 Golang 𒑰 Web3.js 𒑰 Ethers.js
-  - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 PostgreSQL 𒑰 Git 𒑰 Slack 𒑰 Jira
-  - 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
-  - 🔗 Third Party API Integration
-
-<!--
-**MkDev11/MkDev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ - 🥇 React 𒑰 Angular 𒑰 NextJS 𒑰 Material UI 𒑰 Ant Design 𒑰 Tailwind CSS 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma
+ - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO
+ - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap
+ - 🏹 Chrome extension with React & Redux
+ - 💰 Blockchain 𒑰 Smart Contract 𒑰 Solidity 𒑰 Golang 𒑰 Web3.js 𒑰 Ethers.js
+ - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 PostgreSQL 𒑰 Git 𒑰 Slack 𒑰 Jira
+ - 🚩 Docker 𒑰 Jenkins 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 Test-Driven Development(TDD)
+ - 🔗 Third Party API Integration
+ ![github-bg](https://github.com/MkDev11/MkDev11/assets/94194147/9eddda7f-acc4-4a94-ab86-e67f73bf7b37)(https://MkDev11.github.io)
