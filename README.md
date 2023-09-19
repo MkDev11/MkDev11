@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">Hi 👋, I'm Jack Lin<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"></h1>
+<h1 align="center"> <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">Hi 👋<img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px"></h1>
 <h3 align="center">
   <a href="https://github.com/MkDev11">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+;A%20passionate%20frontend%20developer%20from%20Finland;Senior%20Front%20End%20Developer;7%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=850&height=90&color=58a6ff&vCenter=true&size=37%20">
